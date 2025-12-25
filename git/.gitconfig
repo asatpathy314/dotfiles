@@ -1,0 +1,17 @@
+[user]
+	name = Abhishek Satpathy
+	email = asatpathy314@gmail.com
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
+[core]
+	editor = nvim
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	cm = commit -m
+	lg = log --oneline --graph --decorate --all
